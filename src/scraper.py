@@ -80,8 +80,8 @@ def main():
         print(f"Todos os eventos coletados e salvos em data/eventos.json.")
 
         print("A nova coleta será feita em 6 horas.")
-        # Aguarda 6 horas antes de coletar novamente
-        time.sleep(21600)  # 21600 segundos = 6 horas
+        # Aguarda 1 hora antes de coletar novamente
+        time.sleep(3600)  # 3600 segundos = 1 hora
 
 # Executa o programa
 if __name__ == "__main__":
