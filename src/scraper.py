@@ -19,30 +19,42 @@ def normalize_string(s):
 
 # Função para coletar dados dos eventos
 def scrape_events(url, city):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
     events = []
+    page_number = 1  # Começa na primeira página
     
-    for event_card in soup.select(".EventCardstyle__EventInfo-sc-1rkzctc-5"):
-        try:
-            # Captura a data e hora do evento
-            date_time_str = event_card.select_one(".EventCardstyle__EventDate-sc-1rkzctc-6 .fZlvlB").text.strip()
-            # Captura o nome do evento
-            event_name = event_card.select_one(".EventCardstyle__EventTitle-sc-1rkzctc-7").text.strip()
-            # Captura o local do evento
-            event_location = event_card.select_one(".EventCardstyle__EventLocation-sc-1rkzctc-8").text.strip()
+    while True:
+        response = requests.get(url, params={'page': page_number})  # Adiciona o número da página na URL
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        event_cards = soup.select(".EventCardstyle__EventInfo-sc-1rkzctc-5")
+        
+        if not event_cards:  # Se não houver mais eventos, saia do loop
+            break
+        
+        for event_card in event_cards:
+            try:
+                # Captura a data e hora do evento
+                date_time_str = event_card.select_one(".EventCardstyle__EventDate-sc-1rkzctc-6 .fZlvlB").text.strip()
+                # Captura o nome do evento
+                event_name = event_card.select_one(".EventCardstyle__EventTitle-sc-1rkzctc-7").text.strip()
+                # Captura o local do evento
+                event_location = event_card.select_one(".EventCardstyle__EventLocation-sc-1rkzctc-8").text.strip()
 
-            # Verifica se o local do evento contém o nome da cidade (insensível a maiúsculas)
-            if normalize_string(city) in normalize_string(event_location):
-                # Adiciona o evento à lista
-                events.append({
-                    "Nome": event_name,
-                    "Local do Evento": event_location,
-                    "Data e Hora": date_time_str,
-                })
-        except Exception as e:
-            print(f"Erro ao capturar evento: {e}")
+                # Verifica se o local do evento contém o nome da cidade (insensível a maiúsculas)
+                if normalize_string(city) in normalize_string(event_location):
+                    # Adiciona o evento à lista se não for duplicado
+                    event_identifier = (normalize_string(event_name), normalize_string(event_location))  # Identificador único
+                    if event_identifier not in [(normalize_string(e["Nome"]), normalize_string(e["Local do Evento"])) for e in events]:
+                        events.append({
+                            "Nome": event_name,
+                            "Local do Evento": event_location,
+                            "Data e Hora": date_time_str,
+                        })
+            except Exception as e:
+                print(f"Erro ao capturar evento: {e}")
 
+        page_number += 1  # Avança para a próxima página
+    
     return events
 
 # Função para salvar os dados em um arquivo JSON
