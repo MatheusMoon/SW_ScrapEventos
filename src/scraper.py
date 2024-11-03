@@ -54,28 +54,20 @@ def save_to_json(data, filename):
 
 # Função principal para executar a coleta de eventos
 def main():
-    all_events = []
-    
-    # Solicita ao usuário a cidade
-    user_input = input("Digite a cidade que deseja buscar (Serra, Vitória, Cariacica, Vila Velha): ")
-    
-    # Normaliza a entrada do usuário
-    normalized_input = normalize_string(user_input)
+    all_events = []  # Lista para armazenar todos os eventos coletados
 
-    # Verifica se a cidade está no mapeamento
-    if normalized_input in city_urls:
-        url = city_urls[normalized_input]
-    else:
-        print("Cidade não reconhecida. Tente novamente.")
-        return  # Sai da função se a cidade não for válida
-    
     while True:
-        all_events.extend(scrape_events(url, user_input))  # Passa a cidade para a função
-        
-        # Salva os eventos no arquivo JSON
-        save_to_json(all_events, 'data/eventos.json')
-        print(f"Eventos coletados e salvos em data/eventos.json. A nova coleta será feita em 6 horas.")
+        # Coleta eventos de cada cidade
+        for city, url in city_urls.items():
+            print(f"Coletando eventos para {city.capitalize()}...")
+            events = scrape_events(url, city)
+            all_events.extend(events)  # Adiciona os eventos coletados à lista
 
+        # Salva todos os eventos em um único arquivo JSON
+        save_to_json(all_events, 'data/eventos.json')
+        print(f"Todos os eventos coletados e salvos em data/eventos.json.")
+
+        print("A nova coleta será feita em 6 horas.")
         # Aguarda 6 horas antes de coletar novamente
         time.sleep(21600)  # 21600 segundos = 6 horas
 
