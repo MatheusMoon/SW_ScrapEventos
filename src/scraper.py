@@ -79,7 +79,7 @@ def main():
         save_to_json(all_events, 'data/eventos.json')
         print(f"Todos os eventos coletados e salvos em data/eventos.json.")
 
-        print("A nova coleta será feita em 1 hora.")
+        print("A nova coleta será feita em 1 horas.")
         # Aguarda 1 hora antes de coletar novamente
         time.sleep(3600)  # 3600 segundos = 1 hora
 
