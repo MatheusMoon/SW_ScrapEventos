@@ -1,0 +1,912 @@
+[
+    {
+        "Nome": "AÇÃO DE VACINAÇÃO",
+        "Local do Evento": "Shopping Montserrat - Serra, ES",
+        "Data e Hora": "23 Out"
+    },
+    {
+        "Nome": "5º DIALOGES",
+        "Local do Evento": "Hangar Gastrobar - Serra, ES",
+        "Data e Hora": "Qui, 07 Nov · 19:00"
+    },
+    {
+        "Nome": "DESFAZENDO IDEIAS: Stand Up Comedy com Felipe Ferreira",
+        "Local do Evento": "Supermercado Carone Mall - Serra, ES",
+        "Data e Hora": "Qua, 20 Nov · 20:00"
+    },
+    {
+        "Nome": "Denison Carvalho em Indelevel",
+        "Local do Evento": "Supermercado Carone Mall - Laranjeiras - Serra, ES",
+        "Data e Hora": "Sab, 23 Nov · 20:00"
+    },
+    {
+        "Nome": "WORKSHOP - Inteligências Artificiais no mercado jurídico",
+        "Local do Evento": "Essencial Escritórios - OAB SERRA - Serra, ES",
+        "Data e Hora": "07 Nov"
+    },
+    {
+        "Nome": "EMPIRE DAY BUSINESS",
+        "Local do Evento": "Av. Central, 1289 - 3 andar sala 302 - Serra, ES",
+        "Data e Hora": "Qua, 13 Nov · 19:00"
+    },
+    {
+        "Nome": "Retiro de Jovens da Igreja Apostólica Missionária 2024",
+        "Local do Evento": "Sítio da Flor - Serra, ES",
+        "Data e Hora": "22 Nov"
+    },
+    {
+        "Nome": "CURSO OFICIAL ABCCMM - PROVAS FUNCIONAIS ESPORTIVAS",
+        "Local do Evento": "Cte Carolina&Rancho Oliveira - Serra, ES",
+        "Data e Hora": "22 Nov"
+    },
+    {
+        "Nome": "Aulas de Musica",
+        "Local do Evento": "IABL- Igreja Apostolica Batista Liberdade - Serra, ES",
+        "Data e Hora": "13 Abr"
+    },
+    {
+        "Nome": "Espaço para Festas e Eventos: Por Você (Cópia)",
+        "Local do Evento": "Por Você - Festas e Eventos - Serra, ES",
+        "Data e Hora": "21 Mar"
+    },
+    {
+        "Nome": "Resenha Na Veia - Alegre/ES",
+        "Local do Evento": "Alto da Serra Butiquim - Alegre, ES",
+        "Data e Hora": "Sab, 07 Dez · 16:00"
+    },
+    {
+        "Nome": "MultiEsporte Para Todos | Caravana Gratuita de Eventos Esportivos",
+        "Local do Evento": "Local a definir - Vitória, ES",
+        "Data e Hora": "23 Nov"
+    },
+    {
+        "Nome": "Ópera | Clitemnestra | 12º Festival de Música Erudita do Espírito Santo",
+        "Local do Evento": "Sesc Glória - Vitória, ES",
+        "Data e Hora": "Dom, 10 Nov · 18:00"
+    },
+    {
+        "Nome": "Mais uma dose de Monttilla",
+        "Local do Evento": "Local a definir - Vitória, ES",
+        "Data e Hora": "Qui, 12 Dez · 21:00"
+    },
+    {
+        "Nome": "ES | Workshop Transforma",
+        "Local do Evento": "A Gazeta - Vitória, ES",
+        "Data e Hora": "Qui, 07 Nov · 08:30"
+    },
+    {
+        "Nome": "Encontro Mensal de Novembro",
+        "Local do Evento": "CDL Vitória - Vitória, ES",
+        "Data e Hora": "Qua, 06 Nov · 18:30"
+    },
+    {
+        "Nome": "12ª Semana Capixaba da Engenharia, Agronomia e Geociências",
+        "Local do Evento": "CREA-ES - Conselho Regional de Engenharia e Agronomia do Espírito Santo - Vitória, ES",
+        "Data e Hora": "10 Dez"
+    },
+    {
+        "Nome": "EXCELLENCE EXPERIENCE - GINÁSTICA RÍTMICA",
+        "Local do Evento": "Sesc - Vitória (Sede) - Vitória, ES",
+        "Data e Hora": "06 Dez"
+    },
+    {
+        "Nome": "Escola de Voluntários do Terceiro Setor - 3º Módulo 2024",
+        "Local do Evento": "Sebrae Lab - Vitória, ES",
+        "Data e Hora": "Qua, 06 Nov · 19:00"
+    },
+    {
+        "Nome": "Alterdata  Innovation - Vitória ES",
+        "Local do Evento": "Sescon Espírito Santo - Vitória, ES",
+        "Data e Hora": "Ter, 26 Nov · 08:00"
+    },
+    {
+        "Nome": "Forrozada Boa - DIEGO OLIVEIRA - (Turnê Brasil) - MESTRE MARROM (PB) - DJ BRAVIM (ES) 100% Vinil",
+        "Local do Evento": "Recreio dos Olhos - Vitória, ES",
+        "Data e Hora": "Sex, 22 Nov · 22:00"
+    },
+    {
+        "Nome": "Confraternização 2024",
+        "Local do Evento": "Enseada CCVV - Vitória, ES",
+        "Data e Hora": "Sab, 30 Nov · 13:00"
+    },
+    {
+        "Nome": "Insights Fórum Internacional de Gestores",
+        "Local do Evento": "Auditório Américo Buaiz - Vitória, ES",
+        "Data e Hora": "Ter, 05 Nov · 19:00"
+    },
+    {
+        "Nome": "Espetáculo de Final de Ano do Balé Stela Maria \"As Quatro Estações e a Vida\"",
+        "Local do Evento": "Palácio da Cultura Sônia Cabral - Vitória, ES",
+        "Data e Hora": "Seg, 04 Nov · 19:00"
+    },
+    {
+        "Nome": "Espetáculo de Final de Ano do Balé Stela Maria - As Quatro Estações e a Vida",
+        "Local do Evento": "Palácio da Cultura Sônia Cabral - Vitória, ES",
+        "Data e Hora": "Seg, 04 Nov · 20:15"
+    },
+    {
+        "Nome": "LANÇAMENTO DO LIVRO: Baía das Tartarugas: Riqueza marinha na capital do Espírito Santo",
+        "Local do Evento": "Av. Nossa Sra. dos Navegantes, 700A - Vitória, ES",
+        "Data e Hora": "Sex, 08 Nov · 10:00"
+    },
+    {
+        "Nome": "Encontro da APSE - Assistência Espirita às Pessoas em Situação de Privação de Liberdade",
+        "Local do Evento": "Federação Espirita do Estado do Espírito Santo - FEEES - Vitória, ES",
+        "Data e Hora": "Sab, 23 Nov · 13:30"
+    },
+    {
+        "Nome": "PMI - Workshop Nexus - Project Management in Experiential Learning - 16 horas - Presencial",
+        "Local do Evento": "COPE - PPGGP - CCJE - Ufes - Vitória, ES",
+        "Data e Hora": "20 Nov"
+    },
+    {
+        "Nome": "Musical \"CLÁSSICOS DO CINEMA\".",
+        "Local do Evento": "Teatro Sônia Cabral - Vitória, ES",
+        "Data e Hora": "Ter, 05 Nov · 20:00"
+    },
+    {
+        "Nome": "COCKTAIL BRUNCH COM CAMILA LINHARES",
+        "Local do Evento": "Padaria Monte Libano Praia do Canto - Vitória, ES",
+        "Data e Hora": "Sex, 29 Nov · 09:00"
+    },
+    {
+        "Nome": "Prêmio Ser Humano 2024",
+        "Local do Evento": "Oásis Festas Eventos - Vitória, ES",
+        "Data e Hora": "Sex, 22 Nov · 20:00"
+    },
+    {
+        "Nome": "CONEXA H 2025",
+        "Local do Evento": "Centro de Convenções de Vitória - Vitória, ES",
+        "Data e Hora": "Qua, 11 Jun · 08:00"
+    },
+    {
+        "Nome": "IX COPA CAPIXABA",
+        "Local do Evento": "Centro de Convenções de Vitoria - Vitória, ES",
+        "Data e Hora": "Sab, 07 Dez · 10:00"
+    },
+    {
+        "Nome": "Nova Trilha da Governança - Ecossistema Territorial Criativo do Centro de Vitória (Cópia)",
+        "Local do Evento": "HUB ES+ - Vitória, ES",
+        "Data e Hora": "21 Out"
+    },
+    {
+        "Nome": "12° Fórum Liberdade e Democracia de Vitória",
+        "Local do Evento": "Centro de Convenções de Vitória - Vitória, ES",
+        "Data e Hora": "13 Nov"
+    },
+    {
+        "Nome": "O Avarento",
+        "Local do Evento": "Oficina de Atores Abel Santana - Vitória, ES",
+        "Data e Hora": "Dom, 24 Nov · 18:00"
+    },
+    {
+        "Nome": "4° Semana da Indústria Grafica",
+        "Local do Evento": "FINDES - Vitória, ES",
+        "Data e Hora": "Qua, 06 Nov · 18:00"
+    },
+    {
+        "Nome": "19º SCGP 2024 - Seminário Capixaba de Gestão de Projetos",
+        "Local do Evento": "Comfort Suites Vitória - Vitória, ES",
+        "Data e Hora": "06 Nov"
+    },
+    {
+        "Nome": "NINGUÉM DIRÁ QUE É TARDE DEMAIS - com Arlete Salles, Edwin Luisi e elenco",
+        "Local do Evento": "TEATRO UNIVERSITÁRIO – UFES - Vitória, ES",
+        "Data e Hora": "29 Nov"
+    },
+    {
+        "Nome": "Corretor Xperience Talk",
+        "Local do Evento": "Apex Empresarial - Vitória, ES",
+        "Data e Hora": "Sab, 09 Nov · 09:00"
+    },
+    {
+        "Nome": "II Jornada Antirracista da ALES",
+        "Local do Evento": "Assembleia Legislativa do Espírito Santo (ALES) - Vitória, ES",
+        "Data e Hora": "Sex, 22 Nov · 13:00"
+    },
+    {
+        "Nome": "PIDC: Quais as novas perspectivas de tratamento?",
+        "Local do Evento": "R. Aleixo Netto, 1702 - Vitória, ES",
+        "Data e Hora": "Qua, 06 Nov · 19:00"
+    },
+    {
+        "Nome": "Divino, Maravilhoso /// 5ª Mostra de fim de ano da sala Baila! /// SÁBADO 30 NOV",
+        "Local do Evento": "Sesc Glória - Vitória, ES",
+        "Data e Hora": "Sab, 30 Nov · 20:00"
+    },
+    {
+        "Nome": "Divino, Maravilhoso /// 5ª Mostra de fim de ano da sala Baila! /// DOMINGO 1º DE DEZ",
+        "Local do Evento": "Sesc Glória - Vitória, ES",
+        "Data e Hora": "Dom, 01 Dez · 18:00"
+    },
+    {
+        "Nome": "Doceria Lucrativa - O Maior Evento para Docerias do ES",
+        "Local do Evento": "Oásis Festas Eventos - Vitória, ES",
+        "Data e Hora": "Ter, 05 Nov · 08:30"
+    },
+    {
+        "Nome": "O Poder Da Perda",
+        "Local do Evento": "Centro de Convenções de Vitória - Vitória, ES",
+        "Data e Hora": "Sab, 09 Nov · 10:00"
+    },
+    {
+        "Nome": "Espirito Protagonista - 3ª Edição",
+        "Local do Evento": "Restaurante Papaguth - Vitória, ES",
+        "Data e Hora": "Qui, 05 Dez · 19:00"
+    },
+    {
+        "Nome": "FLAMENCURA - Espetáculo de Danza e Música Flamenca",
+        "Local do Evento": "Teatro do SESI - Vitória, ES",
+        "Data e Hora": "08 Nov"
+    },
+    {
+        "Nome": "RoadShow - Inova Startups",
+        "Local do Evento": "Sebraelab - Vitória - Vitória, ES",
+        "Data e Hora": "Ter, 05 Nov · 19:00"
+    },
+    {
+        "Nome": "Orquestra Camerata Sesi - Temporada Pop: Especial Roberto Carlos",
+        "Local do Evento": "Teatro Sesi Jardim da Penha ES - Vitória, ES",
+        "Data e Hora": "Sex, 20 Dez · 19:00"
+    },
+    {
+        "Nome": "Agro Atlas Experience 2024",
+        "Local do Evento": "Hotel Senac Ilha do Boi - Vitória, ES",
+        "Data e Hora": "Ter, 12 Nov · 08:00"
+    },
+    {
+        "Nome": "Imersão Máquina de Resultados 2025",
+        "Local do Evento": "Espaço Patrick Ribeiro - Aeroporto de Vitória - Vitória, ES",
+        "Data e Hora": "14 Jun"
+    },
+    {
+        "Nome": "35º ANIVERSÁRIO DA ACOMAC-ES",
+        "Local do Evento": "Le Buffet Master - Vitória, ES",
+        "Data e Hora": "Sex, 08 Nov · 20:00"
+    },
+    {
+        "Nome": "IX Encontro Nacional do CREA Jr",
+        "Local do Evento": "Faculdade Estácio de Sá de Vitória - Vitória, ES",
+        "Data e Hora": "12 Nov"
+    },
+    {
+        "Nome": "Congresso de Podologia do Espírito Santo - 1º Edição 2024",
+        "Local do Evento": "Local a definir - Vitória, ES",
+        "Data e Hora": "23 Nov"
+    },
+    {
+        "Nome": "Conferência SAUDE",
+        "Local do Evento": "Igreja Batista Morada Camburi - Vitória, ES",
+        "Data e Hora": "09 Abr"
+    },
+    {
+        "Nome": "Biomed Week",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Qui, 07 Nov · 08:00"
+    },
+    {
+        "Nome": "Biomédicos na Reprodução Humana Assistida: explorando novos horizontes",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Qui, 07 Nov · 19:00"
+    },
+    {
+        "Nome": "Como ter uma carreira de sucesso na harmonização facial",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Sex, 08 Nov · 18:00"
+    },
+    {
+        "Nome": "CINE FILOSOFIA",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Sex, 08 Nov · 08:00"
+    },
+    {
+        "Nome": "Certificação Bondarchuk Training Systems - Nível 02",
+        "Local do Evento": "Studio Fernando Padilha - Vitória, ES",
+        "Data e Hora": "13 Set"
+    },
+    {
+        "Nome": "Tour O Amor Não é Cego - Talitha Pereira - Vitória (ES)",
+        "Local do Evento": "Centro de Celebrações - PIBJC - Vitória, ES",
+        "Data e Hora": "Qua, 13 Nov · 19:30"
+    },
+    {
+        "Nome": "Como me manter empregável no mercado? Desenvolvendo comportamentos assertivos",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Qua, 06 Nov · 11:00"
+    },
+    {
+        "Nome": "III FISIO EM FOCO (Atualização Científica)",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Sex, 22 Nov · 19:00"
+    },
+    {
+        "Nome": "Caminhada Ecológica no Parque Estadual da Fonte Grande",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Sab, 09 Nov · 08:00"
+    },
+    {
+        "Nome": "Polícia Científica e a Biologia Forense como ferramentas da justiça",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "Seg, 04 Nov · 19:00"
+    },
+    {
+        "Nome": "APRENDA COMO MONTAR UMA DISTRIBUIDORA DE BEBIDAS DO ZERO",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Ter, 19 Nov · 20:00"
+    },
+    {
+        "Nome": "O PODER DA GESTÃO FINANCEIRA 2.0",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Qui, 28 Nov · 20:00"
+    },
+    {
+        "Nome": "O PODER DA INTELIGÊNCIA FINANCEIRA  NA PRÁTICA - PASSO A PASSO",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Sex, 15 Nov · 09:30"
+    },
+    {
+        "Nome": "Nivelamento de Biologia",
+        "Local do Evento": "UniSales - Centro Universitário Salesiano - Vitória, ES",
+        "Data e Hora": "14 Ago"
+    },
+    {
+        "Nome": "O PODER DO FOCO - MAIS  DE 4 MIL PESSOAS JÁ ASSISTIRAM ESSE AULÃO",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Seg, 04 Nov · 20:00"
+    },
+    {
+        "Nome": "APRENDA A POTENCIALIZAR SEU CÉREBRO - CERTIFICAÇÃO + FERRAMENTAS",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Ter, 12 Nov · 20:00"
+    },
+    {
+        "Nome": "O Antídoto do Medo - Aprenda como se libertar das inseguranças e medos",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Sab, 30 Nov · 09:30"
+    },
+    {
+        "Nome": "COMO ESCREVER E LANÇAR SEU PRIMEIRO LIVRO - PASSO A PASSO",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Seg, 25 Nov · 20:00"
+    },
+    {
+        "Nome": "ALCANCE SUA MAESTRIA EMOCIONAL",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Qua, 13 Nov · 09:30"
+    },
+    {
+        "Nome": "PRODUTIVIDADE MÁXIMA - Aprenda os segredos para ser cada vez mais produtivo",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Dom, 17 Nov · 09:30"
+    },
+    {
+        "Nome": "A ARTE DO ESTOICISMO - MAESTRIA EMOCIONAL (COM CERTIFICAÇÃO)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Sex, 08 Nov · 20:00"
+    },
+    {
+        "Nome": "PNL - PROGRAMAÇÃO NEUROLINGUÍSTICA (COM CERTIFICAÇÃO)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Sab, 09 Nov · 09:30"
+    },
+    {
+        "Nome": "Se Libertando dos Medos e Inseguranças - Passo a Passo",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Ter, 19 Nov · 09:30"
+    },
+    {
+        "Nome": "GESTÃO DO TEMPO E PRODUTIVIDADE - (APRENDA COMO GOVERNAR NO TEMPO)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Qui, 07 Nov · 20:00"
+    },
+    {
+        "Nome": "O PODER DO HÁBITO - (APRENDA COMO MODIFICAR SEUS HÁBITOS)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Dom, 24 Nov · 20:00"
+    },
+    {
+        "Nome": "Desbloqueio Emocional na pratica (Aprenda um passo a passo)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Sab, 23 Nov · 09:30"
+    },
+    {
+        "Nome": "O PODER DO FOCO - MAIS  DE 4 MIL PESSOAS JÁ ASSISTIRAM ESSE AULÃO)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Qui, 14 Nov · 20:00"
+    },
+    {
+        "Nome": "DESINTOXICAÇÃO CEREBRAL (PASSO A PASSO)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Qua, 06 Nov · 20:00"
+    },
+    {
+        "Nome": "Inteligência Emocional + Neurociência - (COM CERTIFICAÇÃO)",
+        "Local do Evento": "O evento será online - Vitória - Vitória, ES",
+        "Data e Hora": "Qua, 13 Nov · 20:00"
+    },
+    {
+        "Nome": "I Meeting Con.versa",
+        "Local do Evento": "Figata Pizza & Pasta - Praia do Canto (NÃO FAZEMOS RESERVAS) - Vitória, ES",
+        "Data e Hora": "Qui, 28 Nov · 18:00"
+    },
+    {
+        "Nome": "PRESENCIAL | Capacifarma - Cálculos Farmacêuticos e Fatores de Correção e Equivalência",
+        "Local do Evento": "Sede CRF- ES - Vitória, ES",
+        "Data e Hora": "Seg, 18 Nov · 18:30"
+    },
+    {
+        "Nome": "Imersão Comunica Edição ES",
+        "Local do Evento": "FINDES - Vitória, ES",
+        "Data e Hora": "08 Nov"
+    },
+    {
+        "Nome": "Startup Weekend Turistech Vitória 2024",
+        "Local do Evento": "Sebrae - Vitória, ES",
+        "Data e Hora": "29 Nov"
+    },
+    {
+        "Nome": "Congresso Técnico Agrária ES",
+        "Local do Evento": "Cervejaria Fratelli Reggiani - Vitória, ES",
+        "Data e Hora": "12 Nov"
+    },
+    {
+        "Nome": "HR Talks - Insights sobre Inovação e Gestão de Pessoas",
+        "Local do Evento": "SebraeLAB - Vitória, ES",
+        "Data e Hora": "Qui, 05 Dez · 08:30"
+    },
+    {
+        "Nome": "Orquestra Camerata Sesi - Temporada Clássica: Richard Strauss, Mozart e Peter Warlock",
+        "Local do Evento": "Teatro Sesi Jardim da Penha ES - Vitória, ES",
+        "Data e Hora": "Sex, 22 Nov · 19:30"
+    },
+    {
+        "Nome": "Vitória - Conceito, Processos de escrita e a busca por identidade musical",
+        "Local do Evento": "Praça Costa Pereira, 30 - Vitória, ES",
+        "Data e Hora": "Ter, 26 Nov · 18:00"
+    },
+    {
+        "Nome": "COMO É QUE PODE? - COM GABRIEL LOUCHARD",
+        "Local do Evento": "TEATRO UNIVERSITÁRIO – UFES - Vitória, ES",
+        "Data e Hora": "Sab, 09 Nov · 20:00"
+    },
+    {
+        "Nome": "Fundação Projeto Tamar Vitória",
+        "Local do Evento": "Fundação Projeto Tamar - Vitória - Vitória, ES",
+        "Data e Hora": "29 Out"
+    },
+    {
+        "Nome": "Boa Sorte - Uma Comédia Terapêutica",
+        "Local do Evento": "Teatro Sesi Jardim da Penha ES - Vitória, ES",
+        "Data e Hora": "Dom, 08 Dez · 19:30"
+    },
+    {
+        "Nome": "CONSERTO PARA DOIS, O MUSICAL",
+        "Local do Evento": "TEATRO UNIVERSITÁRIO – UFES - Vitória, ES",
+        "Data e Hora": "13 Dez"
+    },
+    {
+        "Nome": "D.P.A. A Peça 2 – Um Mistério em Magowood - VITÓRIA",
+        "Local do Evento": "Espaço Patrick Ribeiro - Vitória, ES",
+        "Data e Hora": "Dom, 17 Nov · 17:30"
+    },
+    {
+        "Nome": "Conect@com",
+        "Local do Evento": "FAESA - Vitória, ES",
+        "Data e Hora": "Seg, 04 Nov · 09:00"
+    },
+    {
+        "Nome": "Tete a Tete",
+        "Local do Evento": "FAESA | Centro Universitário - Campus Vitória - Vitória, ES",
+        "Data e Hora": "Seg, 11 Nov · 09:00"
+    },
+    {
+        "Nome": "NUCAEEP Talk 2024 - Tecnologia e Transformação Digital em Startups",
+        "Local do Evento": "CREA-ES - Conselho Regional de Engenharia e Agronomia do Espírito Santo - Vitória, ES",
+        "Data e Hora": "Sab, 09 Nov · 08:00"
+    },
+    {
+        "Nome": "Interage UGN",
+        "Local do Evento": "FAESA | Centro Universitário - Campus Vitória - Vitória, ES",
+        "Data e Hora": "Seg, 18 Nov · 19:00"
+    },
+    {
+        "Nome": "RED LIGHTS",
+        "Local do Evento": "People Club - Vitória, ES",
+        "Data e Hora": "Qui, 14 Nov · 23:00"
+    },
+    {
+        "Nome": "Substancia de Metal I",
+        "Local do Evento": "Hells Bells Bar - Vitória, ES",
+        "Data e Hora": "Sab, 16 Nov · 21:00"
+    },
+    {
+        "Nome": "REUNIÃO - SINDEGTURES",
+        "Local do Evento": "SEBRAE - Vitória, ES",
+        "Data e Hora": "Qui, 07 Nov · 19:00"
+    },
+    {
+        "Nome": "Desmistificando a Inteligência Artificial - Palestrante: Deivid Bitti Padilha",
+        "Local do Evento": "Base27 | Hub de Inovação - Vitória, ES",
+        "Data e Hora": "Qua, 27 Nov · 16:00"
+    },
+    {
+        "Nome": "IMERSÃO EM CUIDADOS COM O PÉ DIABÉTICO",
+        "Local do Evento": "Transamerica Fit Vitória Reta da Penha - Vitória, ES",
+        "Data e Hora": "08 Nov"
+    },
+    {
+        "Nome": "I Simpósio de Stewardship de Antimicrobianos do Hospital Santa Rita",
+        "Local do Evento": "AFECC- Hospital Santa Rita   - Vitória, ES",
+        "Data e Hora": "Qui, 28 Nov · 08:00"
+    },
+    {
+        "Nome": "Criativando",
+        "Local do Evento": "Invasão Criativa - Vitória, ES",
+        "Data e Hora": "Seg, 11 Nov · 17:00"
+    },
+    {
+        "Nome": "Imersão MVP",
+        "Local do Evento": "Edifício Victória Office Tower - Vitória, ES",
+        "Data e Hora": "Sab, 09 Nov · 15:00"
+    },
+    {
+        "Nome": "Curso de Energia Solar em Vitória dias 05/11 e 06/11/2024",
+        "Local do Evento": "IEDUV - Vitória, ES",
+        "Data e Hora": "05 Nov"
+    },
+    {
+        "Nome": "Curso de Energia Solar em Vitória. Curso Instalador e Projetista Solar.",
+        "Local do Evento": "IEDUV - Vitória, ES",
+        "Data e Hora": "Qui, 28 Set · 08:30"
+    },
+    {
+        "Nome": "2º Edição do Penedo Conecta",
+        "Local do Evento": "Camarada Camarão - Vitória, ES",
+        "Data e Hora": "Qua, 20 Nov · 16:00"
+    },
+    {
+        "Nome": "Curso de Energia Solar em Vitória dias 28/01 e 29/01/2025",
+        "Local do Evento": "IEDUV - Vitória, ES",
+        "Data e Hora": "28 Jan"
+    },
+    {
+        "Nome": "Premiação 10 anos Vitória PetroShow - \"Destaque Empresarial na Transição Energética e Práticas ESG\"",
+        "Local do Evento": "Ferrari Eventos - Vitória, ES",
+        "Data e Hora": "Qui, 14 Nov · 18:30"
+    },
+    {
+        "Nome": "COACH ALEX PUSSIELDI EM VITÓRIA - ES",
+        "Local do Evento": "Wellness Clube dos Oficiais - CrossFit, Natação, Judô e Futebol - Vitória, ES",
+        "Data e Hora": "Seg, 11 Nov · 13:00"
+    },
+    {
+        "Nome": "Apresentação Imetame - ConneCT",
+        "Local do Evento": "Auditório CT I - Vitória, ES",
+        "Data e Hora": "Qui, 07 Nov · 14:00"
+    },
+    {
+        "Nome": "Prêmio Farol do Bem",
+        "Local do Evento": "Camarada Camarão - Vitória, ES",
+        "Data e Hora": "Qui, 28 Nov · 19:00"
+    },
+    {
+        "Nome": "Apresentações Desafios ConneCT",
+        "Local do Evento": "Auditório CT I - Vitória, ES",
+        "Data e Hora": "Qua, 06 Nov · 16:00"
+    },
+    {
+        "Nome": "Festa de Confraternização dos Diretores das Escolas Privadas do Espírito Santo",
+        "Local do Evento": "Le Buffet Master - Vitória, ES",
+        "Data e Hora": "Sex, 22 Nov · 20:30"
+    },
+    {
+        "Nome": "Azure AI Training Session",
+        "Local do Evento": "Quality Hotel Aeroporto Vitória - Vitória, ES",
+        "Data e Hora": "Seg, 09 Dez · 08:00"
+    },
+    {
+        "Nome": "Summit 2025 - A chave da comunicação para fechar grandes negócios",
+        "Local do Evento": "Hotel Senac Ilha do Boi - Vitória, ES",
+        "Data e Hora": "Qua, 13 Nov · 16:00"
+    },
+    {
+        "Nome": "Treinamento Super Comunicadores | OAB-ES",
+        "Local do Evento": "Nobile Suítes Diamond Hotel - Vitória, ES",
+        "Data e Hora": "29 Nov"
+    },
+    {
+        "Nome": "Road Show Comander Espírito Santo",
+        "Local do Evento": "MB Importacao e Distribuicao LTDA - Cariacica, ES",
+        "Data e Hora": "Sab, 09 Nov · 14:00"
+    },
+    {
+        "Nome": "Tardezinha do CN7",
+        "Local do Evento": "Sítio do Mariano - Cariacica, ES",
+        "Data e Hora": "Dom, 10 Nov · 10:00"
+    },
+    {
+        "Nome": "Eros Prado especial de 10 anos do Pagode da Ofensa",
+        "Local do Evento": "Local a definir - Cariacica, ES",
+        "Data e Hora": "Ter, 19 Nov · 20:30"
+    },
+    {
+        "Nome": "Workshop: Microbiologia em Ação",
+        "Local do Evento": "Grau Educacional de Cariacica - Cariacica, ES",
+        "Data e Hora": "Seg, 04 Nov · 18:00"
+    },
+    {
+        "Nome": "SALVADOR - Técnico: Projeto para casa inteligente",
+        "Local do Evento": "Amatel ES Distribuidora - Cariacica, ES",
+        "Data e Hora": "Qui, 28 Nov · 09:00"
+    },
+    {
+        "Nome": "Turma VIP-Workshop Foco Emocional e Financeiro",
+        "Local do Evento": "Instituto Viva a Sua Essência - Cariacica, ES",
+        "Data e Hora": "Dom, 24 Nov · 08:00"
+    },
+    {
+        "Nome": "ATUALIZAÇÃO TRABALHISTA: DA ADMISSÃO A DEMISSÃO.",
+        "Local do Evento": "Cariacica - Cariacica, ES",
+        "Data e Hora": "Sab, 30 Nov · 08:00"
+    },
+    {
+        "Nome": "Prostaktiv: ((VEDI.!)) Una Soluzione Naturale per la Salute della Prostata",
+        "Local do Evento": "2 - Cariacica, ES",
+        "Data e Hora": "07 Abr"
+    },
+    {
+        "Nome": "Festival da Esperança",
+        "Local do Evento": "Montanha da Esperança - Cariacica, ES",
+        "Data e Hora": "24 Out"
+    },
+    {
+        "Nome": "Noite de Testes - INGRESSOS GRATUITOS - Quarta 13 de Novembro às 21:00 - Joker Comedy Bar",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qua, 13 Nov · 21:00"
+    },
+    {
+        "Nome": "O Palco É Seu - INGRESSOS GRATUITOS - 07 de Novembro às 21:00 - Joker Comedy Bar - Vila Velha",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qui, 07 Nov · 21:00"
+    },
+    {
+        "Nome": "Noite de Testes - INGRESSOS GRATUITOS - Quarta 06 de Novembro às 21:00 - Joker Comedy Bar",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qua, 06 Nov · 21:00"
+    },
+    {
+        "Nome": "Noite de Testes - INGRESSOS GRATUITOS - Quarta 27 de Novembro às 21:00 - Joker Comedy Bar",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qua, 27 Nov · 21:00"
+    },
+    {
+        "Nome": "Noite de Testes - INGRESSOS GRATUITOS - Quinta 21 de Novembro às 21:00 - Joker Comedy Bar",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qui, 21 Nov · 21:00"
+    },
+    {
+        "Nome": "As Melhores Piadas - INGRESSOS GRATUITOS - Quinta 28 de Novembro às 21:00 - Joker Comedy Bar",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qui, 28 Nov · 21:00"
+    },
+    {
+        "Nome": "Ton Nascimento & Wanberg Mello - Sábado 09 de Novembro às 21:00 - Joker Comedy Bar - Vila Velha",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Sab, 09 Nov · 21:00"
+    },
+    {
+        "Nome": "Piada Ao Alvo - INGRESSOS GRATUITOS - Quinta 14 de Novembro às 21:00 - Joker Comedy Bar - Vila Velha",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qui, 14 Nov · 21:00"
+    },
+    {
+        "Nome": "DESFAZENDO IDEIAS: Stand Up Comedy com Felipe Ferreira",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Ter, 19 Nov · 21:00"
+    },
+    {
+        "Nome": "Almoço Regional Capixaba",
+        "Local do Evento": "Macunaíma Cozinha Experimental - Vila Velha, ES",
+        "Data e Hora": "09 Nov"
+    },
+    {
+        "Nome": "Denison Carvalho em Indelevel",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Dom, 24 Nov · 20:30"
+    },
+    {
+        "Nome": "André Assunção - O Natal é dos Gatos - Sexta 29 de Novembro às 21:00 - Joker Comedy Bar - Vila Velha",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Sex, 29 Nov · 21:00"
+    },
+    {
+        "Nome": "Quando o ovo soca! Camilo Milanez",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qua, 20 Nov · 18:00"
+    },
+    {
+        "Nome": "Apóstolo Arnaldo - Na Minha Época - Sexta 22 e Sábado 23 de Novembro às 21:00 - Joker Comedy Bar ES",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "22 Nov"
+    },
+    {
+        "Nome": "OS CARIOMÉDIAS - JOKER COMEDY BAR",
+        "Local do Evento": "Joker Comedy Bar  - Vila Velha, ES",
+        "Data e Hora": "Qua, 20 Nov · 20:00"
+    },
+    {
+        "Nome": "André Assunção - De Repente 50 - Sábado 30 de Novembro às 21:00 - Joker Comedy Bar - Vila Velha ES",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Sab, 30 Nov · 21:00"
+    },
+    {
+        "Nome": "Plantão dos Técnicos em Vila Velha - ES",
+        "Local do Evento": "Joker Comedy  - Vila Velha, ES",
+        "Data e Hora": "Sex, 06 Dez · 21:00"
+    },
+    {
+        "Nome": "Noite de pizza",
+        "Local do Evento": "Macunaíma Cozinha Experimental - Vila Velha, ES",
+        "Data e Hora": "Qui, 21 Nov · 19:00"
+    },
+    {
+        "Nome": "ANIVERSARIO DO COMANDO CAPIXABA",
+        "Local do Evento": "R. Aracati, 230 - Vila Velha, ES",
+        "Data e Hora": "Dom, 08 Dez · 14:00"
+    },
+    {
+        "Nome": "Matéria Prima",
+        "Local do Evento": "Joker comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Dom, 01 Dez · 19:00"
+    },
+    {
+        "Nome": "Mesa Fest 2024",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "15 Nov"
+    },
+    {
+        "Nome": "CPAD CONVIDA LIVRARIA VILA VELHA - SESSÃO DE AUTÓGRAFOS",
+        "Local do Evento": "Boulevard Shopping Vila Velha - Vila Velha, ES",
+        "Data e Hora": "Sab, 09 Nov · 17:00"
+    },
+    {
+        "Nome": "Vila Music Festival 2024",
+        "Local do Evento": "Correria Music Bar - Vila Velha, ES",
+        "Data e Hora": "Sab, 23 Nov · 15:00"
+    },
+    {
+        "Nome": "Clube do humor no Boulevard Shopping",
+        "Local do Evento": "Boulevard Shopping Vila Velha - Vila Velha, ES",
+        "Data e Hora": "Sex, 15 Nov · 20:00"
+    },
+    {
+        "Nome": "PURPLE CHRISTMAS",
+        "Local do Evento": "Boulevard Shopping Vila Velha - Vila Velha, ES",
+        "Data e Hora": "Sab, 30 Nov · 13:00"
+    },
+    {
+        "Nome": "CURSO TRATAMENTO DE MOTRICIDADE OROFACIAL: na prático",
+        "Local do Evento": "Quality Suites Vila Velha - Vila Velha, ES",
+        "Data e Hora": "Sab, 14 Dez · 08:00"
+    },
+    {
+        "Nome": "Transforme sua mente",
+        "Local do Evento": "Igreja Monte Sião Vila Velha - Vila Velha, ES",
+        "Data e Hora": "Sab, 30 Nov · 14:00"
+    },
+    {
+        "Nome": "De Tudo Um Pouco 8°edição",
+        "Local do Evento": "Sindipaes - Vila Velha, ES",
+        "Data e Hora": "Sex, 06 Dez · 19:30"
+    },
+    {
+        "Nome": "MUNDO DO ARMY - ES",
+        "Local do Evento": "Boulevard Shopping Vila Velha - Vila Velha, ES",
+        "Data e Hora": "Dom, 01 Dez · 13:00"
+    },
+    {
+        "Nome": "Jantar na Cozinha (Outubro/Novembro)",
+        "Local do Evento": "Macunaíma Cozinha Experimental - Vila Velha, ES",
+        "Data e Hora": "26 Out"
+    },
+    {
+        "Nome": "Oficinas para autonomia na cozinha",
+        "Local do Evento": "Macunaíma Cozinha Experimental - Vila Velha, ES",
+        "Data e Hora": "19 Out"
+    },
+    {
+        "Nome": "CURSO DE DRYNEEDLING E ELETROESTIMULAÇÃO",
+        "Local do Evento": "CEMAP - Centro Empresarial Mario Antônio Pereira - Vila Velha, ES",
+        "Data e Hora": "Sab, 07 Dez · 18:00"
+    },
+    {
+        "Nome": "CURSO FLORAIS DE BACH",
+        "Local do Evento": "CEMAP - Centro Empresarial Mario Antônio Pereira - Vila Velha, ES",
+        "Data e Hora": "Sex, 06 Dez · 18:00"
+    },
+    {
+        "Nome": "COMEDIA DE BOTECO NO JOKER COMEDY BAR DIA 12/12 AS 21 HORAS",
+        "Local do Evento": "Joker Comedy Bar - Vila Velha, ES",
+        "Data e Hora": "Qui, 12 Dez · 21:00"
+    },
+    {
+        "Nome": "O PODER DO CHEGA : TRANSFORME SUA VIDA EM UM FINAL DE SEMANA!",
+        "Local do Evento": "Hotel Santorini - Vila Velha, ES",
+        "Data e Hora": "Sab, 07 Dez · 08:00"
+    },
+    {
+        "Nome": "Viva la Vila",
+        "Local do Evento": "Cerimonial Casarão - Espaço para Eventos - Vila Velha, ES",
+        "Data e Hora": "22 Out"
+    },
+    {
+        "Nome": "CHOCOTOUR GAROTO - Visitação Museu Garoto",
+        "Local do Evento": "Chocolates Garoto – CNPJ : 28.053.619/0011-55 - Vila Velha, ES",
+        "Data e Hora": "28 Out"
+    },
+    {
+        "Nome": "Experiência do Cliente como Estratégia de Vendas",
+        "Local do Evento": "CDL Grande Vila Velha - Vila Velha, ES",
+        "Data e Hora": "Qui, 07 Nov · 19:00"
+    },
+    {
+        "Nome": "Intensivão Viva bem Mulher",
+        "Local do Evento": "Multicoop Saúde - Vila Velha, ES",
+        "Data e Hora": "09 Nov"
+    },
+    {
+        "Nome": "Conferência Ser Amor 2024",
+        "Local do Evento": "Igreja Ser Amor - Vila Velha, ES",
+        "Data e Hora": "09 Nov"
+    },
+    {
+        "Nome": "Workshop - IA como Alavanca de Negócios",
+        "Local do Evento": "Shopping Praia da Costa - Vila Velha, ES",
+        "Data e Hora": "09 Nov"
+    },
+    {
+        "Nome": "Réveillon à beira mar",
+        "Local do Evento": "Pousada Praia Rasa - Vila Velha, ES",
+        "Data e Hora": "Ter, 31 Dez · 22:00"
+    },
+    {
+        "Nome": "Bibliajando: uma jornada com a Bíblia!",
+        "Local do Evento": "Primeira Igreja Batista em Guarapari - Templo Sede e Histórico - Guarapari, ES",
+        "Data e Hora": "Sex, 08 Nov · 18:30"
+    },
+    {
+        "Nome": "A lenda do boi bumbá - 04/11",
+        "Local do Evento": "EEEM DR. SILVA MELLO - Guarapari, ES",
+        "Data e Hora": "Seg, 04 Nov · 19:30"
+    },
+    {
+        "Nome": "NUMANICE | GUARAPARI",
+        "Local do Evento": "Brava Beach Club - Guarapari, ES",
+        "Data e Hora": "Sab, 11 Jan · 15:00"
+    },
+    {
+        "Nome": "Seminário de Ciências Bíblicas em Guarapari (ES)",
+        "Local do Evento": "Primeira Igreja Batista em Guarapari - Templo Novo - Guarapari, ES",
+        "Data e Hora": "Sex, 08 Nov · 19:00"
+    },
+    {
+        "Nome": "A lenda do boi-bumbá",
+        "Local do Evento": "EEEM DOUTOR SILVA MELLO - Guarapari, ES",
+        "Data e Hora": "Seg, 11 Nov · 19:30"
+    },
+    {
+        "Nome": "GUARAGAMES",
+        "Local do Evento": "COMPLEXO ESPORTIVO  - Guarapari, ES",
+        "Data e Hora": "23 Nov"
+    },
+    {
+        "Nome": "Convenção Rede Move",
+        "Local do Evento": "Estância Gileade - Guarapari, ES",
+        "Data e Hora": "14 Nov"
+    },
+    {
+        "Nome": "2° Noche de Los Muertos",
+        "Local do Evento": "Pub El Bigodon  - Viana, ES",
+        "Data e Hora": "Sab, 09 Nov · 19:00"
+    }
+]
