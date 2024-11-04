@@ -10,12 +10,27 @@ city_urls = {
     "serra": "https://www.sympla.com.br/eventos/serra-es",
     "vitoria": "https://www.sympla.com.br/eventos/vitoria-es",
     "cariacica": "https://www.sympla.com.br/eventos/cariacica-es",
-    "vila velha": "https://www.sympla.com.br/eventos/vila-velha-es"
+    "vila velha": "https://www.sympla.com.br/eventos/vila-velha-es",
+    "fundão": "https://www.sympla.com.br/eventos/fundao-es",
+    "guarapari": "https://www.sympla.com.br/eventos/guarapari-es", 
+    "viana": "https://www.sympla.com.br/eventos/viana-es"  
 }
 
 # Função para remover acentos
 def normalize_string(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn').lower()
+
+def get_event_link(event_card):
+    try:
+        link_element = event_card.find('a')  # Encontra o elemento <a>
+        if link_element:  # Verifica se o elemento existe
+            return link_element.get('href')  # Captura o link do evento
+        else:
+            print("Elemento <a> não encontrado.")
+            return None  # Retorna None se não encontrar o elemento <a>
+    except Exception as e:
+        print(f"Erro ao capturar link do evento: {e}")
+        return None  # Retorna None em caso de erro
 
 # Função para coletar dados dos eventos
 def scrape_events(url, city):
