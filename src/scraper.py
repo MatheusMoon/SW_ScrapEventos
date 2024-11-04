@@ -40,8 +40,8 @@ def scrape_events(url, city):
                 # Captura o local do evento
                 event_location = event_card.select_one(".EventCardstyle__EventLocation-sc-1rkzctc-8").text.strip()
 
-                # Verifica se o local do evento contém o nome da cidade (insensível a maiúsculas)
-                if normalize_string(city) in normalize_string(event_location):
+                # Verifica se o local do evento contém a cidade e o estado "ES"
+                if normalize_string(city) in normalize_string(event_location) and "es" in normalize_string(event_location):
                     # Adiciona o evento à lista se não for duplicado
                     event_identifier = (normalize_string(event_name), normalize_string(event_location))  # Identificador único
                     if event_identifier not in [(normalize_string(e["Nome"]), normalize_string(e["Local do Evento"])) for e in events]:
