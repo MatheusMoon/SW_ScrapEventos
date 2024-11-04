@@ -20,18 +20,6 @@ city_urls = {
 def normalize_string(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn').lower()
 
-def get_event_link(event_card):
-    try:
-        link_element = event_card.find('a')  # Encontra o elemento <a>
-        if link_element:  # Verifica se o elemento existe
-            return link_element.get('href')  # Captura o link do evento
-        else:
-            print("Elemento <a> não encontrado.")
-            return None  # Retorna None se não encontrar o elemento <a>
-    except Exception as e:
-        print(f"Erro ao capturar link do evento: {e}")
-        return None  # Retorna None em caso de erro
-
 # Função para coletar dados dos eventos
 def scrape_events(url, city):
     events = []
